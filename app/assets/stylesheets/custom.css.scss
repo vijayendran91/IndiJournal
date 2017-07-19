@@ -1,0 +1,17 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.navbar {
+  background: #000000;
+  padding-bottom: 20px;
+}
+
+.navbar-header
+{
+  float: left;
+  text-align: center;
+  width: 100%;
+
+}
+
+.navbar-brand{float: left;}
