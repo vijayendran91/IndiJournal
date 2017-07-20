@@ -35,7 +35,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
 
-
+gem 'devise', '~> 4.3'
 
 gem 'rspec-rails', '~> 3.6'
 
