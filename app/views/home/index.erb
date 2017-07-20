@@ -1,0 +1,4 @@
+<%= @article.each do |x| %>
+  <% user=x.author %>
+  <p><%= x.title %> by <%= user.email%></p>
+<%end%>
